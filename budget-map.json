@@ -1,0 +1,158 @@
+{
+  "Income": {
+    "Salary": [
+      "UNIVERSLA",
+      "HEADINGTON SCHOOL"
+    ],
+    "Interest": [
+      "INTEREST (GROSS)"
+    ],
+    "Refunds/Repayments": [
+      "UNIVERSLA"
+    ],
+    "Gifts": []
+  },
+  "Savings": {
+    "Savings": [
+      "O REDDING"
+    ],
+    "Contingency Fund": []
+  },
+  "Expenses": {
+    "Rent": {
+      "Rent": [
+        "SCOTT FRASER LTD"
+      ]
+    },
+    "Insurance": {
+      "Contents Insurance": [
+        "PREMIUM CREDIT LTD"
+      ],
+      "Georgette Car Insurance": [],
+      "Ollie Car Insurance": []
+    },
+    "Bills": {
+      "Power": [
+        "SOUTHERN ELECTRIC"
+      ],
+      "Internet/TV/Cell": [
+        "BT GROUP PLC"
+      ],
+      "Council Tax": [
+        "OXFORD CITY COUNCI"
+      ],
+      "Water": [
+        "THAMES WATER"
+      ],
+      "One-off bills": [],
+      "TV License": [
+        "TV LICENCE MBP"
+      ]
+    },
+    "Vehicle & Transport": {
+      "Fuel": [],
+      "Public Transport": [
+        "TFL.GOV.UK"
+      ],
+      "Registration/Licensing": [],
+      "Parking": [],
+      "Car hire": [],
+      "WOF/Service/Repairs": []
+    },
+    "Food & Groceries": {
+      "Groceries": [
+        "WAITROSE",
+        "TESCO",
+        "Sainsburys",
+        "CO-OPERATIVE FOOD",
+        "M&S SIMPLY FOOD"
+      ]
+    },
+    "Entertainment": {
+      "Video/DVD/Movies/Theatre": [],
+      "Activities": [],
+      "Drinking/Fun Stuff": []
+    },
+    "Eating Out/Takeaways": {
+      "Eating Out/Takeaways": [],
+      "Coffees/Snacks etc": [
+        "BANJOS",
+        "WH SMITH"
+      ]
+    },
+    "Utilities & Services": {
+      "Drycleaning": [],
+      "Salon/Barber": [
+        "IZ *WALKIN"
+      ]
+    },
+    "Medical": {
+      "Doctors/Dentist visits": [],
+      "Medicine/Prescriptions": [],
+      "Veterinarian": []
+    },
+    "Holidays & Events": {
+      "Airfare/Shipping/Train/Bus": [
+        "EASYJET",
+        "LUFTHANSA",
+        "THAIAIRW"
+      ],
+      "Accomodation": [
+        "AIRBNB"
+      ],
+      "Food/Drinking": [],
+      "Souvenirs": [],
+      "Pet Boarding": [],
+      "Rental car/Fuel/Transport": [],
+      "Activities": []
+    },
+    "Gym": {
+      "Gym membership": []
+    },
+    "Happy Allowance": {
+      "Georgette Happy Allowance": [],
+      "Ollie Happy Allowance": []
+    },
+    "Fines & Fees": {
+      "Bank": [
+        "International Debit Card",
+        "CLUB LLOYDS FEE",
+        "CLUB LLOYDS WAIVED"
+      ],
+      "Tax": [],
+      "Car / Parking": [],
+      "Postage": [],
+      "Other": []
+    },
+    "Wedding": {
+      "Wedding": []
+    },
+    "Gifts & Donations": {
+      "Gifts": []
+    },
+    "Miscellaneous": {
+      "Clothing": [
+        "CANCER RESEARCH UK"
+      ],
+      "Homewares/Lifestyle": [],
+      "Health and Beauty": [
+        "SAVERS HEALTH",
+        "BOOTS"
+      ],
+      "Miscellaneous Withdrawals": [
+        "LOYD 87 LONDON ROA"
+      ],
+      "Games": [],
+      "Books": [],
+      "Accessories": [],
+      "Online Services": [
+        "ITUNES.COM/BILL"
+      ],
+      "Work Related": [
+        "RICKETY PRESS"
+      ],
+      "Donations": [],
+      "Other": []
+    }
+  }
+}
