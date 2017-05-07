@@ -1,0 +1,17 @@
+{
+  "name": "bookkeeper",
+  "version": "0.1.0",
+  "description": "Summarise a CSV file of transactions for a budget.",
+  "bin": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:oliver-jk-redding/bookkeeper.git"
+  },
+  "author": "oliver-jk-redding",
+  "preferGlobal": true,
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "commander": "^2.9.0"
+  },
+  "license": "MIT"
+}

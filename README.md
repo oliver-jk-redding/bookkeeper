@@ -1,0 +1,1 @@
+Summarise a CSV file of transactions for a budget.
