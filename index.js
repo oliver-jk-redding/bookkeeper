@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 var cli   = require('commander');
-var init   = require('./functions.js')
+var init  = require('./functions.js')
 
 cli
   .version('0.1.0')
