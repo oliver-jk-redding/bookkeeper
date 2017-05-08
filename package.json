@@ -1,7 +1,7 @@
 {
   "name": "bookkeeper",
   "version": "0.1.0",
-  "description": "Summarise a CSV file of transactions for a budget.",
+  "description": "Organise a CSV file of transactions for a budget.",
   "bin": "./index.js",
   "repository": {
     "type": "git",
