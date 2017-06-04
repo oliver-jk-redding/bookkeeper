@@ -52,7 +52,11 @@
     "Vehicle & Transport": {
       "Fuel": [],
       "Public Transport": [
-        "TFL.GOV.UK"
+        "TFL.GOV.UK",
+        "UBER",
+        "TRAINLINE",
+        "STAGECOACH",
+        "GWR"
       ],
       "Registration/Licensing": [],
       "Parking": [],
@@ -62,28 +66,37 @@
     "Food & Groceries": {
       "Groceries": [
         "WAITROSE",
-        "TESCO",
+        "TESCO STORES",
         "Sainsburys",
         "CO-OPERATIVE FOOD",
-        "M&S SIMPLY FOOD"
+        "M&S SIMPLY FOOD",
+        "CO-OP GROUP",
+        "ALDI",
+        "SAINSBURY S/MKTS"
       ]
     },
     "Entertainment": {
       "Video/DVD/Movies/Theatre": [],
       "Activities": [],
-      "Drinking/Fun Stuff": []
+      "Drinking/Fun Stuff": [
+        "THE PUNTER OXFORD"
+      ]
     },
     "Eating Out/Takeaways": {
-      "Eating Out/Takeaways": [],
+      "Eating Out/Takeaways": [
+        "HAYMANS FISHERIES"
+      ],
       "Coffees/Snacks etc": [
         "BANJOS",
-        "WH SMITH"
+        "WH SMITH",
+        "PRET A MANGER"
       ]
     },
     "Utilities & Services": {
       "Drycleaning": [],
       "Salon/Barber": [
-        "IZ *WALKIN"
+        "IZ *WALKIN",
+        "ICE HAIRDRESSING"
       ]
     },
     "Medical": {
@@ -95,7 +108,10 @@
       "Airfare/Shipping/Train/Bus": [
         "EASYJET",
         "LUFTHANSA",
-        "THAIAIRW"
+        "THAIAIRW",
+        "OXFORDBUS",
+        "CROATIA AIRLINES",
+        "RYANAIR"
       ],
       "Accomodation": [
         "AIRBNB"
@@ -103,7 +119,10 @@
       "Food/Drinking": [],
       "Souvenirs": [],
       "Pet Boarding": [],
-      "Rental car/Fuel/Transport": [],
+      "Rental car/Fuel/Transport": [
+        "SPACESHIPSRENT",
+        "TESCO PFS"
+      ],
       "Activities": []
     },
     "Gym": {
@@ -132,7 +151,8 @@
     },
     "Miscellaneous": {
       "Clothing": [
-        "CANCER RESEARCH UK"
+        "CANCER RESEARCH UK",
+        "PRIMARK"
       ],
       "Homewares/Lifestyle": [],
       "Health and Beauty": [
